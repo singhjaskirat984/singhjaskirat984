@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/singhjaskirat91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="singhjaskirat91" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaskirat-singh-44577016a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jaskirat-singh-44577016a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaskirat-singh-44577016a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jaskirat-singh-44577016a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jaskiratsingh28/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="singhjaskirat984" height="30" width="40" /></a>
 </p>
 
