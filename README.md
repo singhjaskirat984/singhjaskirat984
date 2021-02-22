@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm J@$kir@t!!</h1>
-<h3 align="left">A software developer | flutter mobile applications developer.</h3>
+<h3 align="left">software developer | flutter mobile applications developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhjaskirat984&label=Profile%20views&color=0e75b6&style=flat" alt="singhjaskirat984" /> </p>
 
