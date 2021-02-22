@@ -2,7 +2,7 @@
 <h3 align="left">software developer | flutter mobile applications developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhjaskirat984&label=Visitors&color=0e75b6&style=flat" alt="singhjaskirat984" /> </p> 
-<img align="right" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47uivustt9qwbtc9k31s32nsmyp0hxs1b8uwgy90mg&rid=giphy.gif" width="480" height="480"/>
+<img align="right" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47uivustt9qwbtc9k31s32nsmyp0hxs1b8uwgy90mg&rid=giphy.gif" width="270" height="270"/>
 
 <p align="left"> <a href="https://twitter.com/singhjaskirat91" target="blank"><img src="https://img.shields.io/twitter/follow/singhjaskirat91?logo=twitter&style=for-the-badge" alt="singhjaskirat91" /></a> </p>
 
