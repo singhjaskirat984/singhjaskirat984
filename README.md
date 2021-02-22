@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm J@$kir@t!!</h1>
 <h3 align="left">software developer | flutter mobile applications developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhjaskirat984&label=Profile%20views&color=0e75b6&style=flat" alt="singhjaskirat984" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhjaskirat984&label=Visitors&color=0e75b6&style=flat" alt="singhjaskirat984" /> </p>
 
 <p align="left"> <a href="https://twitter.com/singhjaskirat91" target="blank"><img src="https://img.shields.io/twitter/follow/singhjaskirat91?logo=twitter&style=for-the-badge" alt="singhjaskirat91" /></a> </p>
 
