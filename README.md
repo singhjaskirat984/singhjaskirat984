@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **singhjaskirat984@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mOrrdchQ64no0cx76XNou4YE0Hcj50IV/view?usp=sharing](https://drive.google.com/file/d/1mOrrdchQ64no0cx76XNou4YE0Hcj50IV/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1mOrrdchQ64no0cx76XNou4YE0Hcj50IV/view?usp=sharing)
 
 - ⚡ Fun fact **fan of Web Shows and Punjabi Music:)**
 
