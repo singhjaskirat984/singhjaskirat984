@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/singhjaskirat91" target="blank"><img src="https://img.shields.io/twitter/follow/singhjaskirat91?logo=twitter&style=for-the-badge" alt="singhjaskirat91" /></a> </p>
 
-- 🔭 I’m currently working on **flutter mobile applications**
+- 🔭 I’m currently working on **Flutter Mobile Applications**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
