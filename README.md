@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm J@$kir@t!!</h1>
-<h3 align="left">software developer | flutter mobile applications developer.</h3>
+<h3 align="left">software developer | Android Mobile Applications Developer.</h3>
 
 <img align="right" src="https://media2.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47uivustt9qwbtc9k31s32nsmyp0hxs1b8uwgy90mg&rid=giphy.gif" width="270" height="270"/>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/singhjaskirat91" target="blank"><img src="https://img.shields.io/twitter/follow/singhjaskirat91?logo=twitter&style=for-the-badge" alt="singhjaskirat91" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Mobile Applications**
+- 🔭 I’m currently working on **Android Java/Kotlin Mobile Applications**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Flutter Projects or some Open-Source projects**
+- 👯 I’m looking to collaborate on **Android Projects and some java based work**
 
 - 🤝 I’m looking for help with **Data Structures in Java Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/singhjaskirat984](https://github.com/singhjaskirat984)
 
-- 💬 Ask me about **Flutter Mobile Applications**
+- 💬 Ask me about **Android Applications**
 
 - 📫 How to reach me **singhjaskirat984@gmail.com**
 
